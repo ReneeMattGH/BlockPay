@@ -41,15 +41,7 @@ Visit the link for more details!
 
 <img src="https://github.com/Madan94/blockpay1/assets/images/git1.jpg" alt="contract-ss" width="800"/>
 
----
-
-## 📄 **Documentation**
-
-For more detailed information, please refer to the **project pitchdeck**:  
-
-[Pitchdeck](https://www.canva.com/design/DAGcgiI1DFA/pWRbtPzwvmVYTBhPnQGPXA/edit?utm_content=DAGcgiI1DFA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
-
----
+-----
 
 ## 🎯 **Project Vision**
 
