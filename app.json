@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "blockpay1",
+    "displayName": "BlockPay",
+    "main":"./node_modules/expo-router/entry.js",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/bplogo.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/bplogo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.blockpay1"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/bplogo.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/bplogo.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
